@@ -10,7 +10,7 @@ include("php/checklogin.php");
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Rainbow English Classes</title>
+    <title>SECURED FEES PAYMENT ANALYSIS</title>
 
     <!-- BOOTSTRAP STYLES-->
     <link href="css/bootstrap.css" rel="stylesheet" />
@@ -31,7 +31,7 @@ include("php/header.php");
                 <div class="row">
                     <div class="col-md-12">
                         <h1 class="page-head-line">DASHBOARD</h1>
-                        <h1 class="page-subhead-line">Welcome to <strong>Rainbow English Classes</strong>. "We aspire to inspire, we motivate to communicate" </h1>
+                        <h1 class="page-subhead-line">Welcome to <strong>SECURED FEES PAYMENT ANALYSIS</strong>. "We aspire to inspire, we motivate to communicate" </h1>
 
                     </div>
                 </div>
@@ -81,9 +81,7 @@ include("php/header.php");
     </div>
     <!-- /. WRAPPER  -->
 
-    <div id="footer-sec">
-       Rainbow English Classes | Developed By : <a href="http://www.codexking.com/" target="_blank">Codexking.com</a>
-    </div>
+    
    
    <script src="js/jquery-1.10.2.js"></script>	
     <!-- BOOTSTRAP SCRIPTS -->

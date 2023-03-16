@@ -103,7 +103,7 @@ $errormsg = "<div class='alert alert-success'><a href='#' class='close' data-dis
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Rainbow English Classes</title>
+    <title>SECURED FEES PAYMENT ANALYSIS</title>
 
     <!-- BOOTSTRAP STYLES-->
     <link href="css/bootstrap.css" rel="stylesheet" />
@@ -550,9 +550,7 @@ yearRange: "1970:<?php echo date('Y');?>"
     </div>
     <!-- /. WRAPPER  -->
 
-    <div id="footer-sec">
-       Rainbow English Classes | Developed By : <a href="http://www.codexking.com/" target="_blank">Codexking.com</a>
-    </div>
+ 
    
   
     <!-- BOOTSTRAP SCRIPTS -->

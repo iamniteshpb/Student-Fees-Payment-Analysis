@@ -39,10 +39,10 @@ $error = 'Invalid Username or Password';
 <head>
       <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Rainbow English Classes</title>
+    <title>SECURED FEES PAYEMNT ANALYSIS</title>
 
-    <!-- BOOTSTRAP STYLES-->
-    <link href="css/bootstrap.css" rel="stylesheet" />
+        <!-- BOOTSTRAP STYLES-->
+        <link href="css/bootstrap.css" rel="stylesheet" />
     <!-- FONTAWESOME STYLES-->
     <link href="css/font-awesome.css" rel="stylesheet" />
     <!-- GOOGLE FONTS-->
@@ -64,7 +64,7 @@ text-align:center;
                 <div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-10 col-xs-offset-1">
                           
                             <div class="panel-body" style="background-color: #E2E2E2; margin-top:50px; border:solid 3px #0e0e0e;">
-							  <h3 class="myhead">Rainbow English Classes</h3>
+							  <h3 class="myhead">SECURED FEES PAYMENT ANALYSIS</h3>
                                 <form role="form" action="login.php" method="post">
                                     <hr />
 									<?php
